@@ -1,0 +1,1 @@
+Codul aplicatiei se afla sub Assets/Scripts/
